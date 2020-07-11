@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376943515001",
+    "firebase_url": "https://ios-webscraping.firebaseio.com",
+    "project_id": "ios-webscraping",
+    "storage_bucket": "ios-webscraping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376943515001:android:b589e36972790f15e80ba8",
+        "android_client_info": {
+          "package_name": "com.example.ios_web_scraping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376943515001-rqgpkc9rak8trkunt2li9teuuuh86b64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-egzngoVV-oih6pe2ewLOLIGI7iFSL14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376943515001-rqgpkc9rak8trkunt2li9teuuuh86b64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376943515001-f3mhlcamp5385kqjbi8eid6dmve15l0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ioswebscrapping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
